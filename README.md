@@ -1,6 +1,12 @@
-# SelfDrivingCar(https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+# SelfDrivingCar [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-<a href="http://petermoran.org/"><img src="https://img.shields.io/badge/Peter%20Moran's%20Blog-Find_more_projects_at_my_website-blue.svg?style=social"></a>
+<p align="left"><a href="http://petermoran.org"><img src="https://img.shields.io/badge/Peter%20Moran's%20Blog-Find_more_projects_at_my_website-blue.svg?style=social"></a></p>
+
+<p align="center"><img src="data/documentation_imgs/car-detect.gif"></p> 
+
+<p align="center"><img src="data/documentation_imgs/car-diagnostic-equal.gif"></p> 
+
+
 Self Driving Car Engineer
 Heart Decease Prediction using Support Vector Machines
 Self Driving Car ND Project 2 - Traffic Sign Classifier
