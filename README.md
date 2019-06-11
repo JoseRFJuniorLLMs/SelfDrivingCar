@@ -2,9 +2,6 @@
 
 <p align="left"><a href="http://petermoran.org"><img src="https://img.shields.io/badge/Peter%20Moran's%20Blog-Find_more_projects_at_my_website-blue.svg?style=social"></a></p>
 
-<p align="center"><img src="data/documentation_imgs/car-detect.gif"></p> 
-
-<p align="center"><img src="data/documentation_imgs/car-diagnostic-equal.gif"></p> 
 
 
 Self Driving Car Engineer
